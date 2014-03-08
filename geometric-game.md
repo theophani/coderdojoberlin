@@ -1,5 +1,5 @@
 ---
-layout: main
+layout: project
 title_en: Geometric Game
 title_de: Geometrisches Spiel
 sample: "http://scratch.mit.edu/projects/18369613/"

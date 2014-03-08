@@ -1,5 +1,5 @@
 ---
-layout: main
+layout: project
 title_en: Angry Dog
 title_de: Gefährlicher Hund
 sample: "http://scratch.mit.edu/projects/18515332/"

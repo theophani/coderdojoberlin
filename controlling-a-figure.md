@@ -1,5 +1,5 @@
 ---
-layout: main
+layout: project
 title_en: Controlling a figure
 title_de: Figuren steuern
 sample: "http://scratch.mit.edu/projects/18957528/"
