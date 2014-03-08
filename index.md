@@ -10,6 +10,7 @@ layout: index
 * [Mit dem Haustier unterwegs](walk-your-pet.html)
 * [Gefährlicher Hund](angry-dog.html)
 * [Berühren und hochzählen](touching-and-counting.html)
+* [Geometrisches Spiel](geometric-game.html)
 
 # Scratch projects you can try at CoderDojo Berlin!
 
