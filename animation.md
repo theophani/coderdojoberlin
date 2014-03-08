@@ -1,5 +1,5 @@
 ---
-layout: main
+layout: project
 title_en: Animation
 title_de: Animation
 sample: "http://scratch.mit.edu/projects/18497793/"

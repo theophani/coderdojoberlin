@@ -1,5 +1,5 @@
 ---
-layout: main
+layout: project
 title_en: Drawing shapes
 title_de: Formen malen
 sample: "http://scratch.mit.edu/projects/18497550/"

@@ -1,5 +1,5 @@
 ---
-layout: main
+layout: project
 title_en: Touching and Counting
 title_de: Berühren und hochzählen
 sample: "http://scratch.mit.edu/projects/18959035/"

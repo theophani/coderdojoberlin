@@ -1,5 +1,5 @@
 ---
-layout: main
+layout: project
 title_en: Walk your pet
 title_de: Mit dem Haustier unterwegs
 sample: "http://scratch.mit.edu/projects/18957528/"
