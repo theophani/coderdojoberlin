@@ -26,3 +26,12 @@ a:hover {
 li {
   margin-bottom: 0.5em;
 }
+
+.footer {
+  font-size: 10px;
+  text-align: right;
+}
+
+.footer a {
+  color: #999;
+}
