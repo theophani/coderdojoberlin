@@ -5,6 +5,6 @@ layout: index
 # CoderDojo Berlin
 
 * Start: 14:00
-* Demos: 16:30
+* Demos: 16:40
 * Ende: 17:00
 * [Scratch Ideen / Ideas](projects.html)
